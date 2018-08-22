@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import org.fundaciobit.plugins.documentconverter.IDocumentConverterPlugin;
+import org.fundaciobit.pluginsib.documentconverter.IDocumentConverterPlugin;
 import org.fundaciobit.plugins.documentconverter.openoffice.OpenOfficeDocumentConverterPlugin;
 
 /**

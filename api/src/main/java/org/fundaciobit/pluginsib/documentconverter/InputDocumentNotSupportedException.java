@@ -1,4 +1,4 @@
-package org.fundaciobit.plugins.documentconverter;
+package org.fundaciobit.pluginsib.documentconverter;
 
 /**
  * 

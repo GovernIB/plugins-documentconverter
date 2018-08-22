@@ -6,11 +6,11 @@ import java.net.InetAddress;
 import java.util.Properties;
 
 import org.apache.log4j.Logger;
-import org.fundaciobit.plugins.documentconverter.ConversionDocumentException;
-import org.fundaciobit.plugins.documentconverter.IDocumentConverterPlugin;
-import org.fundaciobit.plugins.documentconverter.InputDocumentNotSupportedException;
-import org.fundaciobit.plugins.documentconverter.OutputDocumentNotSupportedException;
-import org.fundaciobit.plugins.utils.AbstractPluginProperties;
+import org.fundaciobit.pluginsib.documentconverter.ConversionDocumentException;
+import org.fundaciobit.pluginsib.documentconverter.IDocumentConverterPlugin;
+import org.fundaciobit.pluginsib.documentconverter.InputDocumentNotSupportedException;
+import org.fundaciobit.pluginsib.documentconverter.OutputDocumentNotSupportedException;
+import org.fundaciobit.pluginsib.core.utils.AbstractPluginProperties;
 
 import com.artofsolving.jodconverter.DefaultDocumentFormatRegistry;
 import com.artofsolving.jodconverter.DocumentConverter;

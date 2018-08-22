@@ -1,9 +1,9 @@
-package org.fundaciobit.plugins.documentconverter;
+package org.fundaciobit.pluginsib.documentconverter;
 
 import java.io.InputStream;
 import java.io.OutputStream;
 
-import org.fundaciobit.plugins.IPlugin;
+import org.fundaciobit.pluginsib.core.IPlugin;
 
 /**
  * 
