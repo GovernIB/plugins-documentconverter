@@ -5,5 +5,5 @@
 
 Directori | Descripció | Documentació
 ------------ | ------------- | -------------
-openoffice | Transforma documents a format Openoffice en mode servei | -- 
+openoffice | Servei de transformació de documents a format Openoffice | -- 
 
