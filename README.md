@@ -1,5 +1,5 @@
 # ![Logo](https://github.com/GovernIB/maven/raw/binaris/pluginsib/projectinfo_Attachments/icon.jpg) pluginsib-documentconverter  (pluginsib-2.0)
-*Formatador de documents*
+*API i Plugin formatador de documents*
 
 ***Versions***
 
